@@ -1,0 +1,65 @@
+body{
+  background-image: url("background.jpg");
+background-size: cover;
+}
+header{
+  text-align: center;
+  margin-top: 130px;
+}
+nav{
+  text-align: center;
+  background-color: #00DD01;
+  padding: 10px;
+}
+p{
+  font-size: 12px;
+}
+
+.container{
+  width: 900px;
+  margin: auto;
+  background-color: black;
+  background-color: rgba(0,0,0,0.49);
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 1px;
+  padding-bottom: 50px;
+  border-radius: 10px;
+}
+.logo{
+  width: 130px;
+}
+.payoff{
+  font-size: 20px;
+  color: #00DD01;
+  font-family: 'Open Sans', sans-serif;
+}
+
+div.monopattino{
+  color: white;
+  margin-top: 50px;
+  line-height: 5px;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.carica1{
+  background-color: #F5B453;
+  padding: 10px;
+  margin-right: 700px;
+  border-radius: 5px;
+}
+
+.carica2{
+  background-color: #1DC31D;
+  padding: 10px;
+  margin-right: 500px;
+  border-radius: 5px;
+}
+
+.carica3{
+  background-color: #BE4141;
+  padding: 10px;
+  margin-right: 800px;
+  border-radius: 5px;
+}
